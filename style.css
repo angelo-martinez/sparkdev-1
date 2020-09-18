@@ -136,6 +136,15 @@ body {
   margin-top: 0;
 }
 
+.hello {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #696871;
+  max-width: 460px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
 .copy-col-link {
   font-weight: 700;
   font-size: 17px;
